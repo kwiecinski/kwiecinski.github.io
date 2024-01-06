@@ -1,7 +1,7 @@
 # Webpage created using Jekyll and Minimal Mistakes theme
 
-- [Jekyll documentation] https://jekyllrb.com/docs/
-- [Minimal Mistakes theme documentation] https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+- [Jekyll documentation](https://jekyllrb.com/docs/)
+- [Minimal Mistakes theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
   
 ## Setup enviroment for Jekyll on Ubuntu
 
