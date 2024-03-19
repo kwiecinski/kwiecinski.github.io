@@ -24,7 +24,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-title: "Your awesome title"
+title: "My projects"
 email: "your-email@example.com"
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -37,11 +37,17 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: kwiecinski.github.io
+      url: "kwiecinski.github.io"
       
 # Build settings
 theme: minimal-mistakes-jekyll
 destination: docs
+
+
+include:
+  - _pages
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

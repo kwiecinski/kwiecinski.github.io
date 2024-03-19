@@ -1,0 +1,24 @@
+main:
+  - title: "Electronics"
+    url: "/pages/electronics-projects/"
+  - title: "Non-embedded programming"
+    url: "/pages/programming"
+  - title: "Mechanical"
+    url: "/pages/mechanical"
+  - title: "Repairs"
+    url: "/pages/repairs"
+  - title: "Others"
+    url: "/pages/about"
+  - title: "About"
+    url: "/contact/"
+
+
+sidebar-electronics:
+  - title: "Fiat Punto EVO Dashboard"
+    url: /test1/
+  - title: "Child Page A2"
+    url: /
+  - title: "Child Page A3"
+    url: /
+  - title: "Child Page A4"
+    url: /
