@@ -47,7 +47,17 @@ destination: docs
 include:
   - _pages
 
+collections:
+  electronics:
+    output: true
+    permalink: /_pages/electronics/
 
+
+defaults:
+    values:
+      layout: single
+
+logo: "logo.png"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

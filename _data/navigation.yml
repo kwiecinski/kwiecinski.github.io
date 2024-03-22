@@ -1,24 +1,21 @@
 main:
   - title: "Electronics"
-    url: "/pages/electronics-projects/"
+    url: "/pages/electronics/"
   - title: "Non-embedded programming"
-    url: "/pages/programming"
+    url: "/pages/programming/"
   - title: "Mechanical"
-    url: "/pages/mechanical"
+    url: "/pages/mechanical/"
   - title: "Repairs"
-    url: "/pages/repairs"
+    url: "/pages/repairs/"
   - title: "Others"
-    url: "/pages/about"
+    url: "/pages/others/"
   - title: "About"
     url: "/contact/"
 
 
 sidebar-electronics:
   - title: "Fiat Punto EVO Dashboard"
-    url: /test1/
-  - title: "Child Page A2"
-    url: /
-  - title: "Child Page A3"
-    url: /
-  - title: "Child Page A4"
-    url: /
+    url: /pages/electronics/puntodroid/
+  - title: "Multi-Chemistry Battery Tester"
+    url: /pages/electronics/batterycharger/
+
