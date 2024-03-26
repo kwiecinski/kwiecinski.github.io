@@ -51,7 +51,9 @@ collections:
   electronics:
     output: true
     permalink: /_pages/electronics/
-
+  posts:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
     values:
