@@ -31,6 +31,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "kwiecinski.github.io"
 repository: "kwiecinski"
 
+
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 footer:
