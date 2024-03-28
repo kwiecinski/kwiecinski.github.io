@@ -24,21 +24,24 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-title: "My projects"
+title: "kwiecinski.github.io - My homepage with projects"
 email: "your-email@example.com"
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "kwiecinski.github.io"
 repository: "kwiecinski"
+timezone: Poland
 
 
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+atom_feed:
+  hide: true
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "kwiecinski.github.io"
+      url: "https://github.com/kwiecinski"
       
 # Build settings
 theme: minimal-mistakes-jekyll
