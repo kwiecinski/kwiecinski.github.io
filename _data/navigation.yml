@@ -23,3 +23,6 @@ sidebar-electronics:
   - title: "Multi-Chemistry Battery Tester"
     url: /pages/electronics/batterycharger/
 
+sidebar-others:
+  - title: "Hacking and configuring IP Camera IGSON V-IPW42-2SN-POE "
+    url: /pages/others/ignison-v-ipw42-2sn-ip-camera

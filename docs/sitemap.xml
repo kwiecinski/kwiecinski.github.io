@@ -11,7 +11,13 @@
 <loc>http://localhost:4000/pages/electronics/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/pages/others/ignison-v-ipw42-2sn-ip-camera</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/pages/others/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/pages/electronics/puntodroid/</loc>
