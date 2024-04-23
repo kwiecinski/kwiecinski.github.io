@@ -4,8 +4,9 @@ permalink: /pages/others/
 sidebar:
   title: "Others:"
   nav: sidebar-others
-layout: single
-collection: electronics
+layout: collection
+collection: others
+entries_layout: grid
 ---
 
-test pty
+
